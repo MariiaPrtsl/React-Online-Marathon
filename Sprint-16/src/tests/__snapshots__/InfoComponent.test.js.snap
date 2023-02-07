@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test comnonent Info first item renders correctly 1`] = `
+<li>
+  "login: yurkovskiy"
+</li>
+`;
+
+exports[`Test comnonent Info header renders correctly 1`] = `
+<h3>
+  GitHub User Info
+</h3>
+`;

@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render App Component matches the snapshot 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Hello World!
+  </h1>
+  <div>
+    <h3>
+      GitHub User Info
+    </h3>
+    <ul />
+  </div>
+  <div>
+    <h3>
+      GitHub User Info
+    </h3>
+    <ul />
+  </div>
+</div>
+`;
+
+exports[`test App Component matches the snapshot 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Hello World!
+  </h1>
+  <div>
+    <h3>
+      GitHub User Info
+    </h3>
+    <ul />
+  </div>
+  <div>
+    <h3>
+      GitHub User Info
+    </h3>
+    <ul />
+  </div>
+</div>
+`;
